@@ -6,7 +6,7 @@ Functions for Ambient-Noise Tomography"** by *Caio Ciardelli, Yoweri Nseko, Albe
 
 ## Reference
 
-Ciardelli, C., Nseko, Y., Kabanda, A., & Van der Lee, S. (2024). *A Phase-only Response-removal Method for Improved Stability and Efficiency in the Computation of Empirical Green’s Functions for Ambient-Noise Tomography*. [Journal Name, Volume(Issue), Page Numbers]. DOI: [Insert DOI here].
+Ciardelli, C., Nseko, Y., Kabanda, A., & Van der Lee, S. (2024). *A Phase-only Response-removal Method for Improved Stability and Efficiency in the Computation of Empirical Green’s Functions for Ambient-Noise Tomography*. [![DOI](https://zenodo.org/badge/914642767.svg)](https://doi.org/10.5281/zenodo.14625298)
 
 ---
 
